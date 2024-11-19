@@ -1,6 +1,6 @@
 # concurrency
 
-## Part B Parallell Sorts :
+## Part B Parallel Sorts :
 
 ### Parallel Count Sort Implementation 
 
